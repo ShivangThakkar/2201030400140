@@ -1,0 +1,332 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.sign-up-Xi7 {
+  box-sizing: border-box;
+  padding-right: 12.05rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.sign-up-Xi7 .auto-group-phxd-sGB {
+  margin-right: 15.95rem;
+  width: 68.4rem;
+  height: 76.8rem;
+  position: relative;
+  background-size: 219.843% 130.08%;
+  background-position: -40.9264rem -23.1016rem;
+  background-image: url('../assets/rectangle-26-bg.png');
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-phxd-sGB .rectangle-5-zLo {
+  width: 68.3rem;
+  height: 76.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(54, 54, 54, 0.5);
+}
+.sign-up-Xi7 .auto-group-phxd-sGB .welcome-to-vr-travel-experience-7wD {
+  width: 43.6rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 11.8rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 600;
+  line-height: 1.0857142857;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sign-up-Xi7 .auto-group-phxd-sGB .auto-group-phxd-sGB-bg {
+  width: 68.3rem;
+  height: 76.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:87c3673cb51e7612036d231fa7bf24ceb8386a18');
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j {
+  margin-bottom: 13.1rem;
+  width: 40.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-686-pj9 {
+  margin: 0rem 0rem 2.2rem 2.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-686-pj9 .welcome-Mj5 {
+  margin-bottom: 1.8rem;
+  font-size: 7.4rem;
+  font-weight: 800;
+  line-height: 0.6486486486;
+  color: #009ee2;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-686-pj9 .sign-up-with-email-VKV {
+  margin-right: 2.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 {
+  margin: 0rem 3.9rem 1rem 0rem;
+  width: 36.4rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .rectangle-7-Lb1 {
+  width: 36.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  border: solid 0.1rem #009ee2;
+  box-sizing: border-box;
+  border-radius: 0.9rem;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-89-4X1 {
+  width: 15.8882rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-89-4X1 .vuesax-linear-sms-oDh {
+  margin-right: 0.6882rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-89-4X1 .thisuixmailcom-KSw {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2857142857;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-88-QzB {
+  width: 5rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-88-QzB .rectangle-24-MuR {
+  width: 5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-90-cQ7 .group-88-QzB .email-WGX {
+  width: 2.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #009ee2;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq {
+  margin: 0rem 3.9rem 2.1rem 0rem;
+  width: 36.4rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .rectangle-7-LmM {
+  width: 36.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  border: solid 0.1rem #009ee2;
+  box-sizing: border-box;
+  border-radius: 0.9rem;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-89-g4X {
+  width: 15.8882rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-89-g4X .vuesax-linear-sms-bxB {
+  margin-right: 0.6882rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-89-g4X .thisuixmailcom-k4P {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2857142857;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-88-HKD {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-88-HKD .rectangle-24-1FD {
+  width: 5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-689-DRq .group-88-HKD .username-vd5 {
+  width: 5.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #009ee2;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 {
+  margin: 0rem 3.9rem 3.1rem 0rem;
+  width: 36.4rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .rectangle-7-YuM {
+  width: 36.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  border: solid 0.1rem #009ee2;
+  box-sizing: border-box;
+  border-radius: 0.9rem;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-88-U2K {
+  width: 6rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-88-U2K .rectangle-24-QwZ {
+  width: 6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-88-U2K .password-mGK {
+  width: 5.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #009ee2;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-71-5H1 {
+  width: 14.1938rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-71-5H1 .vuesax-linear-lock-De7 {
+  margin-right: 0.6882rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-92-Ds5 .group-71-5H1 .item--MVR {
+  margin-bottom: 0.0736rem;
+  width: 11.1056rem;
+  height: 0.5264rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-Xi7 .auto-group-oqdq-h8j .group-93-dxj {
+  margin: 0rem 17.15rem 0rem 10.65rem;
+  width: calc(100% - 27.8rem);
+  height: 4.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(255, 255, 255, 0.150000006);
+  box-sizing: border-box;
+  box-shadow: 0 1.6rem 3.2rem rgba(0, 158, 226, 0.1000000015);
+  background-color: #009ee2;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}

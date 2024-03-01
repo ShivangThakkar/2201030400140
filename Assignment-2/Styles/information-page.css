@@ -1,0 +1,88 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.information-page-jzw {
+  box-sizing: border-box;
+  padding: 1.3rem 3.155rem 1.3rem 9.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.information-page-jzw .unsplash-tqpypka92k8-4XR {
+  margin: 0rem 7.3rem 4.5rem 0rem;
+  width: 32.7rem;
+  height: 69.7rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/unsplash-tqpypka92k8-bg.png');
+  border-radius: 7.5rem;
+  flex-shrink: 0;
+}
+.information-page-jzw .group-23-WeK {
+  margin-bottom: 2.7rem;
+  width: 84.1445rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.information-page-jzw .group-23-WeK .leh-ladakh-2sZ {
+  margin-bottom: 1.6rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.information-page-jzw .group-23-WeK .ladakh-is-a-paradise-for-adventure-enthusiasts-and-culture-lovers-alike-key-attractions-include-the-pangong-lake-nubra-valley-tso-moriri-lake-and-the-monasteries-such-as-hemis-thiksey-and-lamayuru-motorbiking-and-cycling-over-the-high-mountain-passes-trekking-in-the-rugged-terrain-and-river-rafting-in-the-indus-are-popular-activities-ZMh {
+  margin-bottom: 3rem;
+  max-width: 81.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.information-page-jzw .group-23-WeK .ladakh-is-nestled-between-the-kunlun-mountain-range-in-the-north-and-the-main-great-himalayas-to-the-south-it-is-a-high-altitude-desert-characterized-by-its-stark-beauty-arid-mountains-and-crystal-clear-waters-wNF {
+  margin: 0rem 0rem 2.6rem 0.145rem;
+  max-width: 82.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.information-page-jzw .group-23-WeK .group-17-ZPd {
+  margin-left: 0.1rem;
+  width: 22.5rem;
+  height: 7.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3e86f5;
+  border-radius: 1rem;
+  box-shadow: 0.4rem 0.8rem 2.5rem rgba(62, 134, 245, 0.25);
+}

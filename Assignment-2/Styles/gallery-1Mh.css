@@ -1,0 +1,47 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.gallery-DwM {
+  box-sizing: border-box;
+  padding: 67.1rem 0rem 5.2rem 4.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gallery-bg.png');
+}
+.gallery-DwM .ghode-pani-xtw {
+  margin-right: 2rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gallery-DwM .line-1-tGo {
+  margin-bottom: 2.2rem;
+  width: 124.1rem;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
